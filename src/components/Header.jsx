@@ -3,7 +3,7 @@ const Header = ({ setGrouping, setSort }) => {
   return (
     <div className="header">
       <label>
-        <img src="icons/display.svg" />
+        <img src="icons/Display.svg" />
       </label>
       <select onChange={(e) => setGrouping(e.target.value)}>
         <option value="status">Status</option>
