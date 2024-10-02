@@ -1,0 +1,14 @@
+.tag {
+  padding: 4px;
+  border: 1px solid rgba(122, 122, 122, 0.2);
+  border-radius: 4px;
+  color: grey;
+  font-weight: 600;
+}
+.tag-span{
+    height:8px;
+    width:8px;
+    border-radius: 8px;
+    background-color: rgb(85, 84, 84);
+    margin-right: 8px;
+}
